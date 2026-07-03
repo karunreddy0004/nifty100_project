@@ -1,0 +1,849 @@
+dq_rule,severity,table,row_id,message
+DQ-02,CRITICAL,profitandloss,120,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,121,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,122,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,123,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,124,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,125,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,126,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,127,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,128,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,129,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,130,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,131,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,132,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,133,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,134,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,135,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,136,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,137,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,138,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,139,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,140,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,141,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,142,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,143,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,144,Duplicate company_id + year
+DQ-02,CRITICAL,profitandloss,145,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,253,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,254,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,255,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,256,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,257,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,258,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,259,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,260,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,261,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,262,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,263,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,264,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,265,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,266,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,267,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,268,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,269,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,270,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,271,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,272,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,273,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,274,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,275,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,276,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,277,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,278,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1075,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1076,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1077,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1078,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1079,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1080,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1081,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1082,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1083,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1084,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1085,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1086,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1087,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1088,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1089,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1090,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1091,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1092,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1093,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1094,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1095,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1096,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1097,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1098,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1099,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1100,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1101,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1102,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1103,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1104,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1105,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1106,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1107,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1108,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1109,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1110,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1111,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1112,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1113,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1114,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1115,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1116,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1117,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1118,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1119,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1120,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1121,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1122,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1123,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1124,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1125,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1126,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1127,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1128,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1129,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1130,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1131,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1132,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1133,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1134,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1135,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1136,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1137,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1138,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1139,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1140,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1141,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1142,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1143,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1144,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1145,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1146,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1147,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1148,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1149,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1150,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1151,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1152,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1153,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1154,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1155,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1156,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1157,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1158,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1159,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1160,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1388,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1389,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1390,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1391,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1392,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1393,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1394,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1395,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1396,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1397,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1398,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1399,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1400,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1440,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1441,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1442,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1443,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1444,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1445,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1446,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1447,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1448,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1449,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1450,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1451,Duplicate company_id + year
+DQ-02,CRITICAL,balancesheet,1452,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,62,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,63,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,64,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,65,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,66,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,67,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,68,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,69,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,70,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,71,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,72,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,73,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,74,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,75,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,76,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,77,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,78,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,79,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,80,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,81,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,82,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,83,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,208,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,209,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,210,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,211,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,212,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,213,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,214,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,215,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,216,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,217,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,218,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,219,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,220,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,221,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,222,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,223,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,224,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,225,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,226,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,227,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,228,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,229,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,230,Duplicate company_id + year
+DQ-02,CRITICAL,cashflow,231,Duplicate company_id + year
+DQ-03,CRITICAL,profitandloss,1263,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1264,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1265,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1266,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1267,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1268,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1269,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1270,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1271,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1272,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1273,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1274,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1275,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,profitandloss,1276,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1277,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1278,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1279,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1280,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1281,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1282,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1283,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1284,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1285,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1286,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1287,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1288,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,profitandloss,1289,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1290,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1291,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1292,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1293,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1294,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1295,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1296,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1297,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1298,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1299,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1300,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1301,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,profitandloss,1302,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1303,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1304,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1305,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1306,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1307,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1308,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1309,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1310,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1311,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1312,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1313,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1314,Invalid company_id VBL
+DQ-03,CRITICAL,profitandloss,1315,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1316,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1317,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1318,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1319,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1320,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1321,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1322,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1323,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1324,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1325,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1326,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1327,Invalid company_id VEDL
+DQ-03,CRITICAL,profitandloss,1328,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1329,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1330,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1331,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1332,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1333,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1334,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1335,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1336,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1337,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1338,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1339,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1340,Invalid company_id WIPRO
+DQ-03,CRITICAL,profitandloss,1341,Invalid company_id ZOMATO
+DQ-03,CRITICAL,profitandloss,1342,Invalid company_id ZOMATO
+DQ-03,CRITICAL,profitandloss,1343,Invalid company_id ZOMATO
+DQ-03,CRITICAL,profitandloss,1344,Invalid company_id ZOMATO
+DQ-03,CRITICAL,profitandloss,1345,Invalid company_id ZOMATO
+DQ-03,CRITICAL,profitandloss,1346,Invalid company_id ZOMATO
+DQ-03,CRITICAL,profitandloss,1347,Invalid company_id ZOMATO
+DQ-03,CRITICAL,profitandloss,1348,Invalid company_id ZOMATO
+DQ-03,CRITICAL,profitandloss,1349,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1350,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1351,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1352,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1353,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1354,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1355,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1356,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1357,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1358,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1359,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1360,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,profitandloss,1361,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1200,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1201,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1202,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1203,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1204,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1205,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1206,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1207,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1208,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1209,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1210,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1211,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1212,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,balancesheet,1226,Invalid company_id ZOMATO
+DQ-03,CRITICAL,balancesheet,1227,Invalid company_id ZOMATO
+DQ-03,CRITICAL,balancesheet,1228,Invalid company_id ZOMATO
+DQ-03,CRITICAL,balancesheet,1229,Invalid company_id ZOMATO
+DQ-03,CRITICAL,balancesheet,1230,Invalid company_id ZOMATO
+DQ-03,CRITICAL,balancesheet,1231,Invalid company_id ZOMATO
+DQ-03,CRITICAL,balancesheet,1232,Invalid company_id ZOMATO
+DQ-03,CRITICAL,balancesheet,1233,Invalid company_id ZOMATO
+DQ-03,CRITICAL,balancesheet,1234,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1235,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1236,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1237,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1238,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1239,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1240,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1241,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1242,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1243,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1244,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1245,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1246,Invalid company_id WIPRO
+DQ-03,CRITICAL,balancesheet,1247,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1248,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1249,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1250,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1251,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1252,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1253,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1254,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1255,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1256,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1257,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1258,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1259,Invalid company_id VEDL
+DQ-03,CRITICAL,balancesheet,1285,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1286,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1287,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1288,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1289,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1290,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1291,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1292,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1293,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1294,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1295,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1296,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1297,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,balancesheet,1298,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1299,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1300,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1301,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1302,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1303,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1304,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1305,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1306,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1307,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1308,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1309,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,balancesheet,1323,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1324,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1325,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1326,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1327,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1328,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1329,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1330,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1331,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1332,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1333,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1334,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,balancesheet,1335,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,189,Invalid company_id AGTL
+DQ-03,CRITICAL,cashflow,190,Invalid company_id AGTL
+DQ-03,CRITICAL,cashflow,191,Invalid company_id AGTL
+DQ-03,CRITICAL,cashflow,192,Invalid company_id AGTL
+DQ-03,CRITICAL,cashflow,193,Invalid company_id AGTL
+DQ-03,CRITICAL,cashflow,194,Invalid company_id AGTL
+DQ-03,CRITICAL,cashflow,195,Invalid company_id AGTL
+DQ-03,CRITICAL,cashflow,1170,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1171,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1172,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1173,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1174,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1175,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1176,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1177,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1178,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1179,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1180,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1181,Invalid company_id ULTRACEMCO
+DQ-03,CRITICAL,cashflow,1182,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1183,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1184,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1185,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1186,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1187,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1188,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1189,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1190,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1191,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1192,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1193,Invalid company_id UNIONBANK
+DQ-03,CRITICAL,cashflow,1194,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1195,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1196,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1197,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1198,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1199,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1200,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1201,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1202,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1203,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1204,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1205,Invalid company_id UNITDSPR
+DQ-03,CRITICAL,cashflow,1206,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1207,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1208,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1209,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1210,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1211,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1212,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1213,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1214,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1215,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1216,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1217,Invalid company_id VBL
+DQ-03,CRITICAL,cashflow,1218,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1219,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1220,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1221,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1222,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1223,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1224,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1225,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1226,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1227,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1228,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1229,Invalid company_id VEDL
+DQ-03,CRITICAL,cashflow,1230,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1231,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1232,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1233,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1234,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1235,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1236,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1237,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1238,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1239,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1240,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1241,Invalid company_id WIPRO
+DQ-03,CRITICAL,cashflow,1242,Invalid company_id ZOMATO
+DQ-03,CRITICAL,cashflow,1243,Invalid company_id ZOMATO
+DQ-03,CRITICAL,cashflow,1244,Invalid company_id ZOMATO
+DQ-03,CRITICAL,cashflow,1245,Invalid company_id ZOMATO
+DQ-03,CRITICAL,cashflow,1246,Invalid company_id ZOMATO
+DQ-03,CRITICAL,cashflow,1247,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1248,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1249,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1250,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1251,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1252,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1253,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1254,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1255,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1256,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1257,Invalid company_id ZYDUSLIFE
+DQ-03,CRITICAL,cashflow,1258,Invalid company_id ZYDUSLIFE
+DQ-04,WARNING,balancesheet,365,Liabilities do not balance within 1%
+DQ-04,WARNING,balancesheet,757,Liabilities do not balance within 1%
+DQ-04,WARNING,balancesheet,758,Liabilities do not balance within 1%
+DQ-04,WARNING,balancesheet,759,Assets do not balance within 1%
+DQ-05,WARNING,profitandloss,96,OPM mismatch (4.39%)
+DQ-05,WARNING,profitandloss,219,OPM mismatch (1322.42%)
+DQ-05,WARNING,profitandloss,220,OPM mismatch (2275.53%)
+DQ-05,WARNING,profitandloss,221,OPM mismatch (3065.64%)
+DQ-05,WARNING,profitandloss,222,OPM mismatch (3433.39%)
+DQ-05,WARNING,profitandloss,223,OPM mismatch (5768.45%)
+DQ-05,WARNING,profitandloss,224,OPM mismatch (10340.12%)
+DQ-05,WARNING,profitandloss,225,OPM mismatch (5496.39%)
+DQ-05,WARNING,profitandloss,226,OPM mismatch (9914.98%)
+DQ-05,WARNING,profitandloss,227,OPM mismatch (2560.12%)
+DQ-05,WARNING,profitandloss,228,OPM mismatch (3125.53%)
+DQ-05,WARNING,profitandloss,229,OPM mismatch (13822.84%)
+DQ-05,WARNING,profitandloss,230,OPM mismatch (11917.31%)
+DQ-05,WARNING,profitandloss,231,OPM mismatch (9024.06%)
+DQ-05,WARNING,profitandloss,258,OPM mismatch (1334.51%)
+DQ-05,WARNING,profitandloss,259,OPM mismatch (1953.75%)
+DQ-05,WARNING,profitandloss,260,OPM mismatch (2834.40%)
+DQ-05,WARNING,profitandloss,261,OPM mismatch (3902.72%)
+DQ-05,WARNING,profitandloss,262,OPM mismatch (6280.50%)
+DQ-05,WARNING,profitandloss,263,OPM mismatch (7573.27%)
+DQ-05,WARNING,profitandloss,264,OPM mismatch (6273.36%)
+DQ-05,WARNING,profitandloss,265,OPM mismatch (9868.45%)
+DQ-05,WARNING,profitandloss,266,OPM mismatch (15987.35%)
+DQ-05,WARNING,profitandloss,267,OPM mismatch (19957.71%)
+DQ-05,WARNING,profitandloss,268,OPM mismatch (21386.58%)
+DQ-05,WARNING,profitandloss,269,OPM mismatch (975.95%)
+DQ-05,WARNING,profitandloss,270,OPM mismatch (779.22%)
+DQ-05,WARNING,profitandloss,271,OPM mismatch (872.02%)
+DQ-05,WARNING,profitandloss,272,OPM mismatch (11755.44%)
+DQ-05,WARNING,profitandloss,273,OPM mismatch (4415.28%)
+DQ-05,WARNING,profitandloss,274,OPM mismatch (9253.65%)
+DQ-05,WARNING,profitandloss,275,OPM mismatch (5462.79%)
+DQ-05,WARNING,profitandloss,276,OPM mismatch (11779.44%)
+DQ-05,WARNING,profitandloss,277,OPM mismatch (7008.23%)
+DQ-05,WARNING,profitandloss,278,OPM mismatch (2999.12%)
+DQ-05,WARNING,profitandloss,279,OPM mismatch (6288.55%)
+DQ-05,WARNING,profitandloss,280,OPM mismatch (4064.51%)
+DQ-05,WARNING,profitandloss,281,OPM mismatch (3488.58%)
+DQ-05,WARNING,profitandloss,360,OPM mismatch (633.82%)
+DQ-05,WARNING,profitandloss,361,OPM mismatch (696.35%)
+DQ-05,WARNING,profitandloss,362,OPM mismatch (644.51%)
+DQ-05,WARNING,profitandloss,363,OPM mismatch (8048.38%)
+DQ-05,WARNING,profitandloss,364,OPM mismatch (5812.85%)
+DQ-05,WARNING,profitandloss,365,OPM mismatch (13411.87%)
+DQ-05,WARNING,profitandloss,366,OPM mismatch (11646.73%)
+DQ-05,WARNING,profitandloss,367,OPM mismatch (12920.88%)
+DQ-05,WARNING,profitandloss,368,OPM mismatch (18428.83%)
+DQ-05,WARNING,profitandloss,369,OPM mismatch (13715.39%)
+DQ-05,WARNING,profitandloss,370,OPM mismatch (9926.80%)
+DQ-05,WARNING,profitandloss,371,OPM mismatch (7786.75%)
+DQ-05,WARNING,profitandloss,372,OPM mismatch (9025.23%)
+DQ-05,WARNING,profitandloss,373,OPM mismatch (445.23%)
+DQ-05,WARNING,profitandloss,374,OPM mismatch (549.58%)
+DQ-05,WARNING,profitandloss,375,OPM mismatch (667.44%)
+DQ-05,WARNING,profitandloss,376,OPM mismatch (868.96%)
+DQ-05,WARNING,profitandloss,377,OPM mismatch (1114.84%)
+DQ-05,WARNING,profitandloss,378,OPM mismatch (1424.90%)
+DQ-05,WARNING,profitandloss,379,OPM mismatch (1865.04%)
+DQ-05,WARNING,profitandloss,380,OPM mismatch (1671.21%)
+DQ-05,WARNING,profitandloss,381,OPM mismatch (2063.60%)
+DQ-05,WARNING,profitandloss,382,OPM mismatch (2895.17%)
+DQ-05,WARNING,profitandloss,383,OPM mismatch (3486.90%)
+DQ-05,WARNING,profitandloss,384,OPM mismatch (4519.90%)
+DQ-05,WARNING,profitandloss,385,OPM mismatch (5146.33%)
+DQ-05,WARNING,profitandloss,386,OPM mismatch (2140.74%)
+DQ-05,WARNING,profitandloss,387,OPM mismatch (2068.10%)
+DQ-05,WARNING,profitandloss,388,OPM mismatch (2082.06%)
+DQ-05,WARNING,profitandloss,389,OPM mismatch (2397.98%)
+DQ-05,WARNING,profitandloss,390,OPM mismatch (2413.34%)
+DQ-05,WARNING,profitandloss,391,OPM mismatch (2744.65%)
+DQ-05,WARNING,profitandloss,392,OPM mismatch (3015.93%)
+DQ-05,WARNING,profitandloss,393,OPM mismatch (3124.71%)
+DQ-05,WARNING,profitandloss,394,OPM mismatch (4174.20%)
+DQ-05,WARNING,profitandloss,395,OPM mismatch (4473.92%)
+DQ-05,WARNING,profitandloss,396,OPM mismatch (4949.09%)
+DQ-05,WARNING,profitandloss,397,OPM mismatch (6215.41%)
+DQ-05,WARNING,profitandloss,398,OPM mismatch (6831.60%)
+DQ-05,WARNING,profitandloss,399,OPM mismatch (18013.48%)
+DQ-05,WARNING,profitandloss,400,OPM mismatch (17691.16%)
+DQ-05,WARNING,profitandloss,401,OPM mismatch (17266.40%)
+DQ-05,WARNING,profitandloss,402,OPM mismatch (18638.04%)
+DQ-05,WARNING,profitandloss,403,OPM mismatch (12363.93%)
+DQ-05,WARNING,profitandloss,404,OPM mismatch (9198.90%)
+DQ-05,WARNING,profitandloss,405,OPM mismatch (24932.11%)
+DQ-05,WARNING,profitandloss,406,OPM mismatch (21503.46%)
+DQ-05,WARNING,profitandloss,407,OPM mismatch (18548.69%)
+DQ-05,WARNING,profitandloss,408,OPM mismatch (24643.53%)
+DQ-05,WARNING,profitandloss,409,OPM mismatch (44163.99%)
+DQ-05,WARNING,profitandloss,410,OPM mismatch (47904.71%)
+DQ-05,WARNING,profitandloss,411,OPM mismatch (46543.22%)
+DQ-05,WARNING,profitandloss,568,OPM mismatch (3498.78%)
+DQ-05,WARNING,profitandloss,569,OPM mismatch (5570.26%)
+DQ-05,WARNING,profitandloss,570,OPM mismatch (7182.10%)
+DQ-05,WARNING,profitandloss,571,OPM mismatch (9005.25%)
+DQ-05,WARNING,profitandloss,572,OPM mismatch (11341.44%)
+DQ-05,WARNING,profitandloss,573,OPM mismatch (13339.37%)
+DQ-05,WARNING,profitandloss,574,OPM mismatch (16558.85%)
+DQ-05,WARNING,profitandloss,575,OPM mismatch (14555.80%)
+DQ-05,WARNING,profitandloss,576,OPM mismatch (16807.19%)
+DQ-05,WARNING,profitandloss,577,OPM mismatch (20753.39%)
+DQ-05,WARNING,profitandloss,578,OPM mismatch (29895.08%)
+DQ-05,WARNING,profitandloss,579,OPM mismatch (44746.41%)
+DQ-05,WARNING,profitandloss,580,OPM mismatch (57649.61%)
+DQ-05,WARNING,profitandloss,581,OPM mismatch (428.73%)
+DQ-05,WARNING,profitandloss,582,OPM mismatch (508.52%)
+DQ-05,WARNING,profitandloss,583,OPM mismatch (777.21%)
+DQ-05,WARNING,profitandloss,584,OPM mismatch (858.26%)
+DQ-05,WARNING,profitandloss,585,OPM mismatch (875.17%)
+DQ-05,WARNING,profitandloss,586,OPM mismatch (977.33%)
+DQ-05,WARNING,profitandloss,587,OPM mismatch (1118.13%)
+DQ-05,WARNING,profitandloss,588,OPM mismatch (1044.88%)
+DQ-05,WARNING,profitandloss,589,OPM mismatch (1136.73%)
+DQ-05,WARNING,profitandloss,590,OPM mismatch (679.16%)
+DQ-05,WARNING,profitandloss,591,OPM mismatch (19.89%)
+DQ-05,WARNING,profitandloss,592,OPM mismatch (431.52%)
+DQ-05,WARNING,profitandloss,593,OPM mismatch (625.72%)
+DQ-05,WARNING,profitandloss,594,OPM mismatch (3467.06%)
+DQ-05,WARNING,profitandloss,595,OPM mismatch (3432.78%)
+DQ-05,WARNING,profitandloss,596,OPM mismatch (4339.55%)
+DQ-05,WARNING,profitandloss,597,OPM mismatch (4501.03%)
+DQ-05,WARNING,profitandloss,598,OPM mismatch (5250.43%)
+DQ-05,WARNING,profitandloss,599,OPM mismatch (4939.79%)
+DQ-05,WARNING,profitandloss,600,OPM mismatch (3983.91%)
+DQ-05,WARNING,profitandloss,601,OPM mismatch (3971.10%)
+DQ-05,WARNING,profitandloss,602,OPM mismatch (3167.02%)
+DQ-05,WARNING,profitandloss,603,OPM mismatch (4011.00%)
+DQ-05,WARNING,profitandloss,604,OPM mismatch (5148.85%)
+DQ-05,WARNING,profitandloss,605,OPM mismatch (5474.87%)
+DQ-05,WARNING,profitandloss,606,OPM mismatch (7608.60%)
+DQ-05,WARNING,profitandloss,607,OPM mismatch (7933.15%)
+DQ-05,WARNING,profitandloss,608,OPM mismatch (8752.48%)
+DQ-05,WARNING,profitandloss,609,OPM mismatch (7685.88%)
+DQ-05,WARNING,profitandloss,610,OPM mismatch (12229.29%)
+DQ-05,WARNING,profitandloss,611,OPM mismatch (13606.89%)
+DQ-05,WARNING,profitandloss,612,OPM mismatch (15422.88%)
+DQ-05,WARNING,profitandloss,613,OPM mismatch (14218.11%)
+DQ-05,WARNING,profitandloss,614,OPM mismatch (17472.30%)
+DQ-05,WARNING,profitandloss,615,OPM mismatch (28261.53%)
+DQ-05,WARNING,profitandloss,616,OPM mismatch (22576.15%)
+DQ-05,WARNING,profitandloss,617,OPM mismatch (23783.05%)
+DQ-05,WARNING,profitandloss,618,OPM mismatch (27843.47%)
+DQ-05,WARNING,profitandloss,619,OPM mismatch (4135.63%)
+DQ-05,WARNING,profitandloss,620,OPM mismatch (4675.28%)
+DQ-05,WARNING,profitandloss,621,OPM mismatch (5328.93%)
+DQ-05,WARNING,profitandloss,622,OPM mismatch (5828.36%)
+DQ-05,WARNING,profitandloss,623,OPM mismatch (6247.08%)
+DQ-05,WARNING,profitandloss,624,OPM mismatch (7420.10%)
+DQ-05,WARNING,profitandloss,625,OPM mismatch (8802.59%)
+DQ-05,WARNING,profitandloss,626,OPM mismatch (9785.79%)
+DQ-05,WARNING,profitandloss,627,OPM mismatch (11550.72%)
+DQ-05,WARNING,profitandloss,628,OPM mismatch (12781.51%)
+DQ-05,WARNING,profitandloss,629,OPM mismatch (14070.35%)
+DQ-05,WARNING,profitandloss,630,OPM mismatch (14582.68%)
+DQ-05,WARNING,profitandloss,631,OPM mismatch (14682.55%)
+DQ-05,WARNING,profitandloss,632,OPM mismatch (15155.59%)
+DQ-05,WARNING,profitandloss,633,OPM mismatch (13150.40%)
+DQ-05,WARNING,profitandloss,634,OPM mismatch (16190.53%)
+DQ-05,WARNING,profitandloss,635,OPM mismatch (27043.12%)
+DQ-05,WARNING,profitandloss,636,OPM mismatch (37841.76%)
+DQ-05,WARNING,profitandloss,637,OPM mismatch (45023.12%)
+DQ-05,WARNING,profitandloss,638,OPM mismatch (51087.38%)
+DQ-05,WARNING,profitandloss,639,OPM mismatch (45290.62%)
+DQ-05,WARNING,profitandloss,640,OPM mismatch (44907.41%)
+DQ-05,WARNING,profitandloss,641,OPM mismatch (26642.69%)
+DQ-05,WARNING,profitandloss,642,OPM mismatch (17413.57%)
+DQ-05,WARNING,profitandloss,643,OPM mismatch (14214.41%)
+DQ-05,WARNING,profitandloss,644,OPM mismatch (31644.63%)
+DQ-05,WARNING,profitandloss,645,OPM mismatch (282.46%)
+DQ-05,WARNING,profitandloss,646,OPM mismatch (330.19%)
+DQ-05,WARNING,profitandloss,647,OPM mismatch (326.24%)
+DQ-05,WARNING,profitandloss,648,OPM mismatch (676.66%)
+DQ-05,WARNING,profitandloss,649,OPM mismatch (831.22%)
+DQ-05,WARNING,profitandloss,650,OPM mismatch (365.79%)
+DQ-05,WARNING,profitandloss,651,OPM mismatch (1583.95%)
+DQ-05,WARNING,profitandloss,652,OPM mismatch (1687.39%)
+DQ-05,WARNING,profitandloss,653,OPM mismatch (1989.03%)
+DQ-05,WARNING,profitandloss,654,OPM mismatch (922.34%)
+DQ-05,WARNING,profitandloss,655,OPM mismatch (1171.07%)
+DQ-05,WARNING,profitandloss,656,OPM mismatch (2489.58%)
+DQ-05,WARNING,profitandloss,657,OPM mismatch (3277.43%)
+DQ-05,WARNING,profitandloss,658,OPM mismatch (648.72%)
+DQ-05,WARNING,profitandloss,659,OPM mismatch (1410.87%)
+DQ-05,WARNING,profitandloss,660,OPM mismatch (1559.80%)
+DQ-05,WARNING,profitandloss,661,OPM mismatch (1750.83%)
+DQ-05,WARNING,profitandloss,662,OPM mismatch (1710.78%)
+DQ-05,WARNING,profitandloss,663,OPM mismatch (1675.56%)
+DQ-05,WARNING,profitandloss,664,OPM mismatch (442.30%)
+DQ-05,WARNING,profitandloss,665,OPM mismatch (420.52%)
+DQ-05,WARNING,profitandloss,666,OPM mismatch (490.47%)
+DQ-05,WARNING,profitandloss,667,OPM mismatch (2266.40%)
+DQ-05,WARNING,profitandloss,668,OPM mismatch (1860.48%)
+DQ-05,WARNING,profitandloss,669,OPM mismatch (1931.03%)
+DQ-05,WARNING,profitandloss,670,OPM mismatch (221.41%)
+DQ-05,WARNING,profitandloss,697,OPM mismatch (258.12%)
+DQ-05,WARNING,profitandloss,698,OPM mismatch (304.05%)
+DQ-05,WARNING,profitandloss,699,OPM mismatch (255.67%)
+DQ-05,WARNING,profitandloss,700,OPM mismatch (293.72%)
+DQ-05,WARNING,profitandloss,701,OPM mismatch (339.54%)
+DQ-05,WARNING,profitandloss,702,OPM mismatch (904.07%)
+DQ-05,WARNING,profitandloss,703,OPM mismatch (478.70%)
+DQ-05,WARNING,profitandloss,704,OPM mismatch (596.81%)
+DQ-05,WARNING,profitandloss,705,OPM mismatch (2524.16%)
+DQ-05,WARNING,profitandloss,706,OPM mismatch (890.39%)
+DQ-05,WARNING,profitandloss,707,OPM mismatch (2024.31%)
+DQ-05,WARNING,profitandloss,708,OPM mismatch (2939.45%)
+DQ-05,WARNING,profitandloss,709,OPM mismatch (1281.97%)
+DQ-05,WARNING,profitandloss,786,OPM mismatch (1.33%)
+DQ-05,WARNING,profitandloss,815,OPM mismatch (1849.92%)
+DQ-05,WARNING,profitandloss,816,OPM mismatch (1437.84%)
+DQ-05,WARNING,profitandloss,817,OPM mismatch (3438.96%)
+DQ-05,WARNING,profitandloss,818,OPM mismatch (2319.57%)
+DQ-05,WARNING,profitandloss,819,OPM mismatch (4031.44%)
+DQ-05,WARNING,profitandloss,820,OPM mismatch (4207.87%)
+DQ-05,WARNING,profitandloss,821,OPM mismatch (5180.23%)
+DQ-05,WARNING,profitandloss,822,OPM mismatch (5072.45%)
+DQ-05,WARNING,profitandloss,823,OPM mismatch (10048.83%)
+DQ-05,WARNING,profitandloss,824,OPM mismatch (8602.98%)
+DQ-05,WARNING,profitandloss,825,OPM mismatch (5825.44%)
+DQ-05,WARNING,profitandloss,826,OPM mismatch (13465.67%)
+DQ-05,WARNING,profitandloss,827,OPM mismatch (14225.42%)
+DQ-05,WARNING,profitandloss,1131,OPM mismatch (1.16%)
+DQ-05,WARNING,profitandloss,1362,OPM mismatch (764.29%)
+DQ-05,WARNING,profitandloss,1363,OPM mismatch (336.89%)
+DQ-05,WARNING,profitandloss,1364,OPM mismatch (1817.67%)
+DQ-05,WARNING,profitandloss,1365,OPM mismatch (3083.60%)
+DQ-05,WARNING,profitandloss,1366,OPM mismatch (2130.94%)
+DQ-05,WARNING,profitandloss,1367,OPM mismatch (2943.16%)
+DQ-05,WARNING,profitandloss,1368,OPM mismatch (251.53%)
+DQ-05,WARNING,profitandloss,1369,OPM mismatch (3980.38%)
+DQ-05,WARNING,profitandloss,1370,OPM mismatch (97.98%)
+DQ-05,WARNING,profitandloss,1371,OPM mismatch (460.15%)
+DQ-05,WARNING,profitandloss,1372,OPM mismatch (6432.98%)
+DQ-05,WARNING,profitandloss,1373,OPM mismatch (16254.70%)
+DQ-05,WARNING,profitandloss,1374,OPM mismatch (15828.80%)
+DQ-07,WARNING,cashflow,1167,Net cash flow mismatch (660.0)
+DQ-08,WARNING,profitandloss,99,Invalid tax percentage (-64.0)
+DQ-08,WARNING,profitandloss,111,Invalid tax percentage (-75.0)
+DQ-08,WARNING,profitandloss,112,Invalid tax percentage (-35.0)
+DQ-08,WARNING,profitandloss,113,Invalid tax percentage (-19.0)
+DQ-08,WARNING,profitandloss,147,Invalid tax percentage (-79.0)
+DQ-08,WARNING,profitandloss,149,Invalid tax percentage (-47.0)
+DQ-08,WARNING,profitandloss,150,Invalid tax percentage (-1.0)
+DQ-08,WARNING,profitandloss,156,Invalid tax percentage (-40.0)
+DQ-08,WARNING,profitandloss,165,Invalid tax percentage (-2.0)
+DQ-08,WARNING,profitandloss,224,Invalid tax percentage (-99.0)
+DQ-08,WARNING,profitandloss,272,Invalid tax percentage (-19.0)
+DQ-08,WARNING,profitandloss,274,Invalid tax percentage (-9.0)
+DQ-08,WARNING,profitandloss,276,Invalid tax percentage (-99.0)
+DQ-08,WARNING,profitandloss,288,Invalid tax percentage (-99.0)
+DQ-08,WARNING,profitandloss,289,Invalid tax percentage (-28.0)
+DQ-08,WARNING,profitandloss,311,Invalid tax percentage (-39.0)
+DQ-08,WARNING,profitandloss,316,Invalid tax percentage (-25.0)
+DQ-08,WARNING,profitandloss,319,Invalid tax percentage (-16.0)
+DQ-08,WARNING,profitandloss,363,Invalid tax percentage (-13.0)
+DQ-08,WARNING,profitandloss,365,Invalid tax percentage (-36.0)
+DQ-08,WARNING,profitandloss,366,Invalid tax percentage (-99.0)
+DQ-08,WARNING,profitandloss,439,Invalid tax percentage (-16.0)
+DQ-08,WARNING,profitandloss,471,Invalid tax percentage (-7.0)
+DQ-08,WARNING,profitandloss,509,Invalid tax percentage (-12.0)
+DQ-08,WARNING,profitandloss,523,Invalid tax percentage (-1.0)
+DQ-08,WARNING,profitandloss,592,Invalid tax percentage (-61.0)
+DQ-08,WARNING,profitandloss,730,Invalid tax percentage (-74.0)
+DQ-08,WARNING,profitandloss,775,Invalid tax percentage (-6.0)
+DQ-08,WARNING,profitandloss,776,Invalid tax percentage (-22.0)
+DQ-08,WARNING,profitandloss,777,Invalid tax percentage (-17.0)
+DQ-08,WARNING,profitandloss,778,Invalid tax percentage (-13.0)
+DQ-08,WARNING,profitandloss,779,Invalid tax percentage (-14.0)
+DQ-08,WARNING,profitandloss,805,Invalid tax percentage (-80.0)
+DQ-08,WARNING,profitandloss,809,Invalid tax percentage (-30.0)
+DQ-08,WARNING,profitandloss,843,Invalid tax percentage (-44.0)
+DQ-08,WARNING,profitandloss,845,Invalid tax percentage (-8.0)
+DQ-08,WARNING,profitandloss,907,Invalid tax percentage (-5.0)
+DQ-08,WARNING,profitandloss,946,Invalid tax percentage (-2.0)
+DQ-08,WARNING,profitandloss,948,Invalid tax percentage (-17.0)
+DQ-08,WARNING,profitandloss,955,Invalid tax percentage (-2.0)
+DQ-08,WARNING,profitandloss,958,Invalid tax percentage (-25.0)
+DQ-08,WARNING,profitandloss,1007,Invalid tax percentage (-31.0)
+DQ-08,WARNING,profitandloss,1009,Invalid tax percentage (-37.0)
+DQ-08,WARNING,profitandloss,1010,Invalid tax percentage (-35.0)
+DQ-08,WARNING,profitandloss,1023,Invalid tax percentage (-10.0)
+DQ-08,WARNING,profitandloss,1074,Invalid tax percentage (-66.0)
+DQ-08,WARNING,profitandloss,1084,Invalid tax percentage (-6.0)
+DQ-08,WARNING,profitandloss,1152,Invalid tax percentage (-8.0)
+DQ-08,WARNING,profitandloss,1157,Invalid tax percentage (-14.0)
+DQ-08,WARNING,profitandloss,1179,Invalid tax percentage (-99.0)
+DQ-08,WARNING,profitandloss,1245,Invalid tax percentage (-12.0)
+DQ-08,WARNING,profitandloss,1270,Invalid tax percentage (-11.0)
+DQ-08,WARNING,profitandloss,1280,Invalid tax percentage (-58.0)
+DQ-08,WARNING,profitandloss,1281,Invalid tax percentage (-21.0)
+DQ-08,WARNING,profitandloss,1282,Invalid tax percentage (-25.0)
+DQ-08,WARNING,profitandloss,1283,Invalid tax percentage (-27.0)
+DQ-08,WARNING,profitandloss,1284,Invalid tax percentage (-22.0)
+DQ-08,WARNING,profitandloss,1302,Invalid tax percentage (-20.0)
+DQ-08,WARNING,profitandloss,1303,Invalid tax percentage (-11.0)
+DQ-08,WARNING,profitandloss,1315,Invalid tax percentage (-25.0)
+DQ-08,WARNING,profitandloss,1316,Invalid tax percentage (-9.0)
+DQ-08,WARNING,profitandloss,1318,Invalid tax percentage (-37.0)
+DQ-08,WARNING,profitandloss,1322,Invalid tax percentage (-43.0)
+DQ-08,WARNING,profitandloss,1346,Invalid tax percentage (-4.0)
+DQ-08,WARNING,profitandloss,1347,Invalid tax percentage (-21.0)
+DQ-08,WARNING,profitandloss,1368,Invalid tax percentage (-99.0)
+DQ-08,WARNING,profitandloss,1369,Invalid tax percentage (-10.0)
+DQ-08,WARNING,profitandloss,1373,Invalid tax percentage (-2.0)
+DQ-09,WARNING,profitandloss,167,Invalid dividend payout (151.0)
+DQ-09,WARNING,profitandloss,287,Invalid dividend payout (194.0)
+DQ-09,WARNING,profitandloss,288,Invalid dividend payout (244.0)
+DQ-09,WARNING,profitandloss,289,Invalid dividend payout (-3.0)
+DQ-09,WARNING,profitandloss,311,Invalid dividend payout (-14.0)
+DQ-09,WARNING,profitandloss,313,Invalid dividend payout (151.0)
+DQ-09,WARNING,profitandloss,341,Invalid dividend payout (106.0)
+DQ-09,WARNING,profitandloss,342,Invalid dividend payout (102.0)
+DQ-09,WARNING,profitandloss,355,Invalid dividend payout (204.0)
+DQ-09,WARNING,profitandloss,400,Invalid dividend payout (121.0)
+DQ-09,WARNING,profitandloss,402,Invalid dividend payout (121.0)
+DQ-09,WARNING,profitandloss,403,Invalid dividend payout (133.0)
+DQ-09,WARNING,profitandloss,404,Invalid dividend payout (146.0)
+DQ-09,WARNING,profitandloss,441,Invalid dividend payout (117.0)
+DQ-09,WARNING,profitandloss,445,Invalid dividend payout (-85.0)
+DQ-09,WARNING,profitandloss,609,Invalid dividend payout (-82.0)
+DQ-09,WARNING,profitandloss,619,Invalid dividend payout (104.0)
+DQ-09,WARNING,profitandloss,627,Invalid dividend payout (119.0)
+DQ-09,WARNING,profitandloss,730,Invalid dividend payout (-437.0)
+DQ-09,WARNING,profitandloss,768,Invalid dividend payout (101.0)
+DQ-09,WARNING,profitandloss,805,Invalid dividend payout (-67.0)
+DQ-09,WARNING,profitandloss,881,Invalid dividend payout (205.0)
+DQ-09,WARNING,profitandloss,915,Invalid dividend payout (150.0)
+DQ-09,WARNING,profitandloss,917,Invalid dividend payout (-230.0)
+DQ-09,WARNING,profitandloss,920,Invalid dividend payout (-31.0)
+DQ-09,WARNING,profitandloss,923,Invalid dividend payout (-228.0)
+DQ-09,WARNING,profitandloss,932,Invalid dividend payout (168.0)
+DQ-09,WARNING,profitandloss,1007,Invalid dividend payout (-2.0)
+DQ-09,WARNING,profitandloss,1073,Invalid dividend payout (859.0)
+DQ-09,WARNING,profitandloss,1136,Invalid dividend payout (-999.0)
+DQ-09,WARNING,profitandloss,1159,Invalid dividend payout (-319.0)
+DQ-09,WARNING,profitandloss,1160,Invalid dividend payout (-114.0)
+DQ-09,WARNING,profitandloss,1161,Invalid dividend payout (210.0)
+DQ-09,WARNING,profitandloss,1172,Invalid dividend payout (-11.0)
+DQ-09,WARNING,profitandloss,1174,Invalid dividend payout (-20.0)
+DQ-09,WARNING,profitandloss,1175,Invalid dividend payout (-203.0)
+DQ-09,WARNING,profitandloss,1176,Invalid dividend payout (-23.0)
+DQ-09,WARNING,profitandloss,1183,Invalid dividend payout (-101.0)
+DQ-09,WARNING,profitandloss,1209,Invalid dividend payout (150.0)
+DQ-09,WARNING,profitandloss,1233,Invalid dividend payout (105.0)
+DQ-09,WARNING,profitandloss,1237,Invalid dividend payout (-87.0)
+DQ-09,WARNING,profitandloss,1238,Invalid dividend payout (-125.0)
+DQ-09,WARNING,profitandloss,1245,Invalid dividend payout (-15.0)
+DQ-09,WARNING,profitandloss,1289,Invalid dividend payout (-31.0)
+DQ-09,WARNING,profitandloss,1317,Invalid dividend payout (-8.0)
+DQ-09,WARNING,profitandloss,1318,Invalid dividend payout (-8.0)
+DQ-09,WARNING,profitandloss,1322,Invalid dividend payout (-22.0)
+DQ-09,WARNING,profitandloss,1325,Invalid dividend payout (357.0)
+DQ-09,WARNING,profitandloss,1326,Invalid dividend payout (259.0)
+DQ-09,WARNING,profitandloss,1368,Invalid dividend payout (123.0)
+DQ-10,WARNING,companies,TVSMOTOR,Invalid website URL
