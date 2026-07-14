@@ -1,7 +1,7 @@
 from company_analysis import company_report
 from sector_analysis import sector_analysis
-from screener import stock_screener
-from ranking import top_rankings
+# from screener import screen_stocks
+# from ranking import top_rankings
 
 while True:
 

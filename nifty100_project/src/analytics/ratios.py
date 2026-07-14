@@ -18,16 +18,17 @@ def operating_profit_margin(operating_profit, sales):
     return (operating_profit / sales) * 100
 
 
-def return_on_equity(net_profit, equity, reserves):
+def return_on_equity(net_profit, equity_capital, reserves):
     """
-    ROE = Net Profit / (Equity + Reserves)
+    ROE = Net Profit / (Equity Capital + Reserves) * 100
     """
-    capital = equity + reserves
 
-    if capital <= 0:
+    total_equity = equity_capital + reserves
+
+    if total_equity <= 0:
         return None
 
-    return (net_profit / capital) * 100
+    return (net_profit / total_equity) * 100
 
 
 def return_on_capital_employed(ebit, equity, reserves, borrowings):
@@ -137,3 +138,52 @@ def asset_turnover(sales, total_assets):
         return None
 
     return sales / total_assets
+
+def free_cash_flow(operating_activity, investing_activity):
+    """
+    Free Cash Flow (FCF)
+
+    Assuming investing_activity contains capital expenditure
+    as a negative cash flow.
+
+    FCF = Operating Activity + Investing Activity
+    """
+
+    if operating_activity is None or investing_activity is None:
+        return None
+
+    return operating_activity + investing_activity
+
+
+def cfo_pat_ratio(operating_activity, net_profit):
+    """
+    CFO / PAT Ratio
+
+    Operating Cash Flow / Net Profit
+    """
+
+    if net_profit == 0 or net_profit is None:
+        return None
+
+    return operating_activity / net_profit
+
+
+def calculate_cagr(begin_value, end_value, years):
+    """
+    CAGR Formula
+
+    CAGR = ((Ending / Beginning) ** (1 / Years) - 1) * 100
+    """
+
+    if (
+        begin_value is None
+        or end_value is None
+        or begin_value <= 0
+        or end_value <= 0
+        or years <= 0
+    ):
+        return None
+
+    return (
+        ((end_value / begin_value) ** (1 / years)) - 1
+    ) * 100
