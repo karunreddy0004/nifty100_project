@@ -1,6 +1,5 @@
 import sqlite3
 from pathlib import Path
-
 import pandas as pd
 import streamlit as st
 
@@ -216,4 +215,89 @@ def get_sector_summary():
 
     df = pd.read_sql(query, conn)
     conn.close()
+    return df
+# -----------------------------------------------------
+# Pros & Cons
+# -----------------------------------------------------
+@st.cache_data(ttl=600)
+def get_pros_cons(ticker):
+
+    conn = get_connection()
+
+    try:
+        df = pd.read_sql(
+            """
+            SELECT
+                type,
+                rule_id,
+                text,
+                confidence_pct
+            FROM pros_cons
+            WHERE company_id = ?
+            ORDER BY
+                CASE
+                    WHEN type='Pro' THEN 1
+                    ELSE 2
+                END,
+                rule_id
+            """,
+            conn,
+            params=[ticker],
+        )
+    except Exception:
+        df = pd.DataFrame()
+
+    conn.close()
+
+    return df
+# -----------------------------------------------------
+# Company Summary
+# -----------------------------------------------------
+@st.cache_data(ttl=600)
+def get_company_summary(ticker):
+
+    conn = get_connection()
+
+    try:
+        df = pd.read_sql(
+            """
+            SELECT *
+            FROM company_summary
+            WHERE company_id = ?
+            """,
+            conn,
+            params=[ticker],
+        )
+    except Exception:
+        df = pd.DataFrame()
+
+    conn.close()
+
+    return df
+
+
+# -----------------------------------------------------
+# Pros & Cons
+# -----------------------------------------------------
+@st.cache_data(ttl=600)
+def get_pros_cons(ticker):
+
+    conn = get_connection()
+
+    try:
+        df = pd.read_sql(
+            """
+            SELECT *
+            FROM pros_cons
+            WHERE company_id = ?
+            ORDER BY type DESC, confidence_pct DESC
+            """,
+            conn,
+            params=[ticker],
+        )
+    except Exception:
+        df = pd.DataFrame()
+
+    conn.close()
+
     return df

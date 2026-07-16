@@ -1,0 +1,360 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ABB,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+ABB,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ABB,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+ABB,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+ADANIENSOL,Con,C03,High debt levels increase financial risk and interest burden.,91
+ADANIENSOL,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+ADANIENSOL,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+ADANIENT,Con,C03,High debt levels increase financial risk and interest burden.,91
+ADANIENT,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+ADANIENT,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+ADANIENT,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ADANIGREEN,Con,C03,High debt levels increase financial risk and interest burden.,91
+ADANIGREEN,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+ADANIGREEN,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+ADANIGREEN,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+ADANIPORTS,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+ADANIPOWER,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ADANIPOWER,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+ADANIPOWER,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+ADANIPOWER,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+AMBUJACEM,Con,C05,Revenue growth below 5% over five years indicates slow business expansion.,88
+AMBUJACEM,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+AMBUJACEM,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+AMBUJACEM,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+APOLLOHOSP,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+APOLLOHOSP,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ASIANPAINT,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ASIANPAINT,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+ASIANPAINT,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ASIANPAINT,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+ASIANPAINT,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+ATGL,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+ATGL,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ATGL,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+AXISBANK,Con,C03,High debt levels increase financial risk and interest burden.,91
+AXISBANK,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+AXISBANK,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+AXISBANK,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BAJAJ-AUTO,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BAJAJ-AUTO,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+BAJAJ-AUTO,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+BAJAJFINSV,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BAJAJFINSV,Con,C02,Negative free cash flow for three consecutive years may indicate weak cash generation.,92
+BAJAJFINSV,Con,C03,High debt levels increase financial risk and interest burden.,91
+BAJAJFINSV,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+BAJAJFINSV,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+BAJAJFINSV,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+BAJAJFINSV,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BAJAJHLDNG,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+BAJAJHLDNG,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+BAJAJHLDNG,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+BAJFINANCE,Con,C02,Negative free cash flow for three consecutive years may indicate weak cash generation.,92
+BAJFINANCE,Con,C03,High debt levels increase financial risk and interest burden.,91
+BAJFINANCE,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+BAJFINANCE,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+BAJFINANCE,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+BAJFINANCE,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BAJFINANCE,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+BANKBARODA,Con,C03,High debt levels increase financial risk and interest burden.,91
+BANKBARODA,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+BANKBARODA,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+BANKBARODA,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+BANKBARODA,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BEL,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BEL,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+BEL,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+BEL,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+BEL,Pro,P08,Efficient utilization of assets reflects strong operating efficiency,87
+BEL,Pro,P09,High return on capital employed indicates efficient utilization of long-term capital,90
+BEL,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+BHARTIARTL,Con,C03,High debt levels increase financial risk and interest burden.,91
+BHARTIARTL,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+BHARTIARTL,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BHEL,Con,C05,Revenue growth below 5% over five years indicates slow business expansion.,88
+BHEL,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+BOSCHLTD,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BOSCHLTD,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+BOSCHLTD,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+BPCL,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BPCL,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BRITANNIA,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BRITANNIA,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+BRITANNIA,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+CANBK,Con,C03,High debt levels increase financial risk and interest burden.,91
+CANBK,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+CANBK,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+CANBK,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+CHOLAFIN,Con,C02,Negative free cash flow for three consecutive years may indicate weak cash generation.,92
+CHOLAFIN,Con,C03,High debt levels increase financial risk and interest burden.,91
+CHOLAFIN,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+CHOLAFIN,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+CHOLAFIN,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+CHOLAFIN,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+CHOLAFIN,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+CIPLA,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+CIPLA,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+CIPLA,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+CIPLA,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+COALINDIA,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+COALINDIA,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+COALINDIA,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+COALINDIA,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+DABUR,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+DABUR,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+DABUR,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+DIVISLAB,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+DIVISLAB,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+DLF,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+DLF,Con,C05,Revenue growth below 5% over five years indicates slow business expansion.,88
+DLF,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+DMART,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+DMART,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+DMART,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+DMART,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+DRREDDY,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+DRREDDY,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+DRREDDY,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+DRREDDY,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+EICHERMOT,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+EICHERMOT,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+EICHERMOT,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+EICHERMOT,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+GAIL,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+GAIL,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+GODREJCP,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+GRASIM,Con,C03,High debt levels increase financial risk and interest burden.,91
+GRASIM,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+GRASIM,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+HAL,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+HAL,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+HAL,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+HAL,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+HAL,Pro,P09,High return on capital employed indicates efficient utilization of long-term capital,90
+HAL,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+HAVELLS,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+HAVELLS,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+HCLTECH,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+HCLTECH,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+HCLTECH,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+HCLTECH,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+HDFCBANK,Con,C03,High debt levels increase financial risk and interest burden.,91
+HDFCBANK,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+HDFCBANK,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+HDFCBANK,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+HDFCLIFE,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+HDFCLIFE,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+HDFCLIFE,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+HDFCLIFE,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+HDFCLIFE,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+HEROMOTOCO,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+HEROMOTOCO,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+HEROMOTOCO,Con,C05,Revenue growth below 5% over five years indicates slow business expansion.,88
+HEROMOTOCO,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+HEROMOTOCO,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+HEROMOTOCO,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+HINDALCO,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+HINDALCO,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+HINDALCO,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+HINDALCO,Con,C01,Low return on equity indicates weak shareholder returns,90
+HINDUNILVR,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+HINDUNILVR,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+HINDUNILVR,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+HINDUNILVR,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+HINDUNILVR,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+ICICIBANK,Con,C03,High debt levels increase financial risk and interest burden.,91
+ICICIBANK,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+ICICIBANK,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+ICICIBANK,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ICICIGI,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+ICICIGI,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+ICICIPRULI,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+ICICIPRULI,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+ICICIPRULI,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+ICICIPRULI,Con,C01,Low return on equity indicates weak shareholder returns,90
+INDIGO,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+INDIGO,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+INDIGO,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+INDIGO,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+INDIGO,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+INDIGO,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+INDIGO,Pro,P09,High return on capital employed indicates efficient utilization of long-term capital,90
+INDIGO,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+INDUSINDBK,Con,C03,High debt levels increase financial risk and interest burden.,91
+INDUSINDBK,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+INDUSINDBK,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+INDUSINDBK,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+INDUSINDBK,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+INFY,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+INFY,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+INFY,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+IOC,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+IOC,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+IRCTC,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+IRCTC,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+IRCTC,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+IRCTC,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+IRCTC,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+IRFC,Con,C03,High debt levels increase financial risk and interest burden.,91
+IRFC,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+IRFC,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+IRFC,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ITC,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ITC,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+ITC,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+ITC,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+JINDALSTEL,Con,C05,Revenue growth below 5% over five years indicates slow business expansion.,88
+JINDALSTEL,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+JIOFIN,Pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+JIOFIN,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+JIOFIN,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+JIOFIN,Con,C01,Low return on equity indicates weak shareholder returns,90
+JSWENERGY,Con,C03,High debt levels increase financial risk and interest burden.,91
+JSWENERGY,Con,C05,Revenue growth below 5% over five years indicates slow business expansion.,88
+JSWENERGY,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+JSWENERGY,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+JSWENERGY,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+JSWSTEEL,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+JSWSTEEL,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+KOTAKBANK,Con,C03,High debt levels increase financial risk and interest burden.,91
+KOTAKBANK,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+KOTAKBANK,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+LICI,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+LICI,Pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+LICI,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+LICI,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+LICI,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+LODHA,Con,C05,Revenue growth below 5% over five years indicates slow business expansion.,88
+LODHA,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+LODHA,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+LT,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+LTIM,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+LTIM,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+LTIM,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+LTIM,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+LTIM,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+LTIM,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+M&M,Con,C03,High debt levels increase financial risk and interest burden.,91
+M&M,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+MARUTI,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+MARUTI,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+MARUTI,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+MOTHERSON,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+NAUKRI,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+NAUKRI,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+NAUKRI,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+NAUKRI,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+NAUKRI,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+NAUKRI,Con,C01,Low return on equity indicates weak shareholder returns,90
+NESTLEIND,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+NESTLEIND,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+NESTLEIND,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+NESTLEIND,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+NHPC,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+NHPC,Con,C05,Revenue growth below 5% over five years indicates slow business expansion.,88
+NHPC,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+NTPC,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+ONGC,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+PFC,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+PFC,Con,C03,High debt levels increase financial risk and interest burden.,91
+PFC,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+PFC,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+PIDILITIND,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+PIDILITIND,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+PIDILITIND,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+PNB,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+PNB,Con,C03,High debt levels increase financial risk and interest burden.,91
+PNB,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+PNB,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+PNB,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+POWERGRID,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+POWERGRID,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+RECLTD,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+RECLTD,Con,C02,Negative free cash flow for three consecutive years may indicate weak cash generation.,92
+RECLTD,Con,C03,High debt levels increase financial risk and interest burden.,91
+RECLTD,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+RECLTD,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+SBILIFE,Pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+SBILIFE,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+SBILIFE,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+SBILIFE,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+SBILIFE,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+SBIN,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+SHREECEM,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+SHREECEM,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+SHREECEM,Con,C01,Low return on equity indicates weak shareholder returns,90
+SHRIRAMFIN,Con,C02,Negative free cash flow for three consecutive years may indicate weak cash generation.,92
+SHRIRAMFIN,Con,C03,High debt levels increase financial risk and interest burden.,91
+SHRIRAMFIN,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+SHRIRAMFIN,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+SHRIRAMFIN,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+SHRIRAMFIN,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+SIEMENS,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+SUNPHARMA,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+SUNPHARMA,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+SUNPHARMA,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+SUNPHARMA,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+TATACONSUM,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+TATACONSUM,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+TATACONSUM,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+TATAMOTORS,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TATAPOWER,Con,C03,High debt levels increase financial risk and interest burden.,91
+TATAPOWER,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+TATASTEEL,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+TCS,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TCS,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+TCS,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+TCS,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+TECHM,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+TECHM,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+TECHM,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+TECHM,Con,C01,Low return on equity indicates weak shareholder returns,90
+TITAN,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TITAN,Con,C03,High debt levels increase financial risk and interest burden.,91
+TITAN,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+TITAN,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+TORNTPHARM,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TORNTPHARM,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+TORNTPHARM,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+TORNTPHARM,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+TORNTPHARM,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+TORNTPHARM,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+TRENT,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TRENT,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+TRENT,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+TRENT,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+TVSMOTOR,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TVSMOTOR,Con,C02,Negative free cash flow for three consecutive years may indicate weak cash generation.,92
+TVSMOTOR,Con,C03,High debt levels increase financial risk and interest burden.,91
+TVSMOTOR,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+ULTRACEMCO,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+ULTRACEMCO,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ULTRACEMCO,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+ULTRACEMCO,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+UNIONBANK,Con,C03,High debt levels increase financial risk and interest burden.,91
+UNIONBANK,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+UNIONBANK,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+UNITDSPR,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+UNITDSPR,Con,C05,Revenue growth below 5% over five years indicates slow business expansion.,88
+UNITDSPR,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+VBL,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+VBL,Con,C06,Negative free cash flow may indicate pressure on cash generation and future investments,90
+VBL,Pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+VBL,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+VBL,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+VEDL,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+VEDL,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+VEDL,Con,C03,High debt levels increase financial risk and interest burden.,91
+VEDL,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+WIPRO,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+WIPRO,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+ZOMATO,Pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,88
+ZOMATO,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
+ZOMATO,Pro,P10,Strong cash conversion with operating cash flow consistently supporting reported profits,90
+ZOMATO,Con,C01,Low return on equity indicates weak shareholder returns,90
+ZYDUSLIFE,Pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ZYDUSLIFE,Pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,92
+ZYDUSLIFE,Pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,89
+ZYDUSLIFE,Pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,91
