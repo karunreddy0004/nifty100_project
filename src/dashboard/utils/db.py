@@ -301,3 +301,99 @@ def get_pros_cons(ticker):
     conn.close()
 
     return df
+@st.cache_data(ttl=600)
+def get_investment_scores():
+
+    conn = get_connection()
+
+    try:
+        df = pd.read_sql(
+            """
+            SELECT *
+            FROM investment_scores
+            ORDER BY final_score DESC
+            """,
+            conn
+        )
+
+    except Exception:
+        df = pd.DataFrame()
+
+    conn.close()
+
+    return df
+
+
+
+@st.cache_data(ttl=600)
+def get_risk_analysis():
+
+    conn = get_connection()
+
+    try:
+        df = pd.read_sql(
+            """
+            SELECT *
+            FROM risk_analysis
+            """,
+            conn
+        )
+
+    except Exception:
+        df = pd.DataFrame()
+
+    conn.close()
+
+    return df
+# -----------------------------------------------------
+# Investment Scores
+# -----------------------------------------------------
+
+@st.cache_data(ttl=600)
+def get_investment_scores():
+
+    conn = get_connection()
+
+    try:
+        df = pd.read_sql(
+            """
+            SELECT *
+            FROM investment_scores
+            ORDER BY final_score DESC
+            """,
+            conn
+        )
+
+    except Exception:
+        df = pd.DataFrame()
+
+    conn.close()
+
+    return df
+
+
+
+# -----------------------------------------------------
+# Risk Analysis
+# -----------------------------------------------------
+
+@st.cache_data(ttl=600)
+def get_risk_analysis():
+
+    conn = get_connection()
+
+    try:
+        df = pd.read_sql(
+            """
+            SELECT *
+            FROM risk_analysis
+            """,
+            conn
+        )
+
+    except Exception:
+        df = pd.DataFrame()
+
+    conn.close()
+
+    return df
