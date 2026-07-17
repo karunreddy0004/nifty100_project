@@ -250,3 +250,53 @@ LinkedIn:
 # License
 
 This project is developed for educational and portfolio purposes.
+
+
+
+## 📌 Project Rules & Assumptions
+
+The following implementation rules were followed throughout the project:
+
+- Excel datasets are loaded using:
+  ```python
+  pd.read_excel(path, header=1)
+  ```
+
+- All `company_id` values are normalized before joins:
+  - Trim leading/trailing spaces
+  - Convert to uppercase
+
+- All monetary values are stored in **INR Crore**.
+
+- The **Financials** sector is excluded when applying the **Debt-to-Equity (D/E)** screener filter.
+
+- If the base year of CAGR is negative, the calculation returns:
+
+  ```
+  TURNAROUND
+  ```
+
+  instead of computing CAGR.
+
+- If **Interest Expense = 0**, the company is labelled:
+
+  ```
+  Debt Free
+  ```
+
+  instead of dividing by zero.
+
+- Simulated datasets such as:
+
+  - `stock_prices`
+  - `market_cap`
+
+  are clearly labelled **SIMULATED** throughout dashboards and reports.
+
+- All unit tests must pass before committing code.
+
+  ```bash
+  make test
+  ```
+
+- Zero test failures are required before every Git commit.
