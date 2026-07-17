@@ -1,4 +1,4 @@
-from analytics.growth import (
+from src.analytics.growth import (
     revenue_growth,
     profit_growth
 )

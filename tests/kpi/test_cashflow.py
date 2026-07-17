@@ -1,6 +1,6 @@
 import pytest
 
-from analytics.cashflow_kpis import (
+from src.analytics.cashflow_kpis import (
     free_cash_flow,
     cfo_quality_score,
     capex_intensity,

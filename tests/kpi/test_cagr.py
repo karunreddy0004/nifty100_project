@@ -1,6 +1,6 @@
 import pytest
 
-from analytics.cagr import calculate_cagr
+from src.analytics.cagr import calculate_cagr
 
 
 def test_normal_cagr():

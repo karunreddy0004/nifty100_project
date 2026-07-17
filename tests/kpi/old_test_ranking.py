@@ -1,6 +1,6 @@
 import pandas as pd
 
-from analytics.ranking import (
+from src.analytics.ranking import (
     score_roe,
     score_roce,
     score_margin,

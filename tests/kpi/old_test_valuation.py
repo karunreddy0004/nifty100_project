@@ -1,4 +1,4 @@
-from analytics.valuation import (
+from src.analytics.valuation import (
     earnings_yield,
     book_value_per_share,
     price_to_book,

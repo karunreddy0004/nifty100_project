@@ -1,7 +1,7 @@
 import pytest
 from pathlib import Path
 
-from analytics.ratios import (
+from src.analytics.ratios import (
     net_profit_margin,
     operating_profit_margin,
     return_on_equity,
