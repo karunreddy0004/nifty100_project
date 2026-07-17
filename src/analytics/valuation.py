@@ -40,7 +40,7 @@ def valuation_label(row):
 
     score = 0
 
-    if row["return_on_equity_pct"] >= 20:
+    if row["return_on_equity_pct"] >= 0.20:
         score += 1
 
     if row["return_on_capital_employed_pct"] >= 20:
@@ -80,7 +80,7 @@ def main():
     # Create valuation flags
 
     df["High ROE"] = (
-        df["return_on_equity_pct"] >= 20
+        df["return_on_equity_pct"] >= 0.20
     )
 
     df["High ROCE"] = (

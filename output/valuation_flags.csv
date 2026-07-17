@@ -1,20 +1,20 @@
 company_id,company_name,High ROE,High ROCE,Healthy Margin,Low Debt,valuation
-ABB,Abbott India Ltd,False,False,True,True,Fairly Valued
+ABB,Abbott India Ltd,True,False,True,True,Fairly Valued
 ADANIENSOL,Adani Energy Solutions Ltd,False,False,False,False,Overvalued
 ADANIENT,Adani Enterprises Ltd,False,False,False,False,Overvalued
 ADANIGREEN,Adani Green Energy Ltd,False,False,False,False,Overvalued
 ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
 ",False,False,True,False,Overvalued
-ADANIPOWER,Adani Power Ltd,False,False,True,False,Overvalued
+ADANIPOWER,Adani Power Ltd,True,False,True,False,Fairly Valued
 AMBUJACEM,Ambuja Cements Ltd,False,False,False,True,Overvalued
 APOLLOHOSP,"Apollo Hospitals
 Chain of Indian private hospitals",False,False,False,False,Overvalued
 ASIANPAINT,"Asian Paints
-Indian Multi-National Paint and Coating Manufacturing Company",False,False,True,True,Fairly Valued
+Indian Multi-National Paint and Coating Manufacturing Company",True,False,True,True,Fairly Valued
 ATGL,Adani Total Gas Ltd,False,False,False,True,Overvalued
-BAJAJ-AUTO,Bajaj Auto Ltd,False,False,True,True,Fairly Valued
+BAJAJ-AUTO,Bajaj Auto Ltd,True,False,True,True,Fairly Valued
 AXISBANK,Axis Bank Ltd,False,False,True,False,Overvalued
-BAJAJFINSV,Bajaj Finserv Ltd,False,False,False,False,Overvalued
+BAJAJFINSV,Bajaj Finserv Ltd,True,False,False,False,Overvalued
 BAJAJHLDNG,Bajaj Holdings & Investment Ltd,False,False,True,True,Fairly Valued
 BAJFINANCE,Bajaj Finance Ltd,False,False,True,False,Overvalued
 BANKBARODA,Bank of Baroda,False,False,True,False,Overvalued
@@ -22,69 +22,69 @@ BHARTIARTL,Bharti Airtel Ltd,False,False,False,False,Overvalued
 BEL,Bharat Electronics Ltd,True,True,True,False,Fairly Valued
 BHEL,"Bharat Heavy Electricals Limited
 ",False,False,False,True,Overvalued
-BOSCHLTD,Bosch Ltd,False,False,False,True,Overvalued
-BPCL,Bharat Petroleum Corporation Ltd,False,False,False,False,Overvalued
-BRITANNIA,Britannia Industries Ltd,False,False,False,False,Overvalued
+BOSCHLTD,Bosch Ltd,True,False,False,True,Fairly Valued
+BPCL,Bharat Petroleum Corporation Ltd,True,False,False,False,Overvalued
+BRITANNIA,Britannia Industries Ltd,True,False,False,False,Overvalued
 CANBK,Canara Bank,False,False,False,False,Overvalued
 CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,False,False,True,False,Overvalued
 CIPLA,"Cipla Ltd
 ",False,False,True,True,Fairly Valued
-COALINDIA,Coal India Ltd,False,False,True,True,Fairly Valued
+COALINDIA,Coal India Ltd,True,False,True,True,Fairly Valued
 DABUR,Dabur India Ltd,False,False,False,True,Overvalued
 DIVISLAB,Divis Laboratories Ltd,False,False,True,True,Fairly Valued
 DLF,DLF Ltd,False,False,True,True,Fairly Valued
 DMART,Avenue Supermarts Ltd,False,False,False,True,Overvalued
 DRREDDY,Dr Reddys Laboratories Ltd,False,False,True,True,Fairly Valued
-EICHERMOT,Eicher Motors Ltd,False,False,True,True,Fairly Valued
+EICHERMOT,Eicher Motors Ltd,True,False,True,True,Fairly Valued
 GAIL,GAIL (India) Ltd,False,False,False,True,Overvalued
 GODREJCP,Godrej Consumer Products Ltd,False,False,False,True,Overvalued
 GRASIM,Grasim Industries Ltd,False,False,False,False,Overvalued
 HAL,Hindustan Aeronautics Ltd,True,True,True,False,Fairly Valued
 HAVELLS,Havells India Ltd,False,False,False,True,Overvalued
-HCLTECH,HCL Technologies Ltd,False,False,False,True,Overvalued
+HCLTECH,HCL Technologies Ltd,True,False,False,True,Fairly Valued
 HDFCBANK,HDFC Bank Ltd,False,False,True,False,Overvalued
 HDFCLIFE,HDFC Life Insurance Company Ltd,False,False,False,True,Overvalued
 HEROMOTOCO,"Hero MotoCorp Ltd
-",False,False,False,True,Overvalued
+",True,False,False,True,Fairly Valued
 HINDALCO,Hindalco Industries Ltd,False,False,False,False,Overvalued
 HINDUNILVR,"Hindustan Unilever Ltd
-",False,False,True,True,Fairly Valued
+",True,False,True,True,Fairly Valued
 ICICIBANK,ICICI Bank Ltd,False,False,True,False,Overvalued
 ICICIGI,ICICI Lombard General Insurance Company Ltd,False,False,False,True,Overvalued
 ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,False,False,False,True,Overvalued
 INDUSINDBK,IndusInd Bank Ltd,False,False,True,False,Overvalued
-INFY,Infosys Ltd,False,False,True,True,Fairly Valued
+INFY,Infosys Ltd,True,False,True,True,Fairly Valued
 IOC,"Indian Oil Corporation
-",False,False,False,False,Overvalued
-IRCTC,Indian Railway Catering & Tourism Corporation Ltd,False,False,True,True,Fairly Valued
+",True,False,False,False,Overvalued
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,True,False,True,True,Fairly Valued
 IRFC,Indian Railway Finance Corporation Ltd,False,False,True,False,Overvalued
 ITC,"ITC Ltd
-",False,False,True,True,Fairly Valued
+",True,False,True,True,Fairly Valued
 JINDALSTEL,Jindal Steel & Power Ltd,False,False,False,True,Overvalued
 JIOFIN,Jio Financial Services Ltd,False,False,True,True,Fairly Valued
 JSWENERGY,JSW Energy Ltd,False,False,True,False,Overvalued
 JSWSTEEL,JSW Steel Ltd,False,False,False,False,Overvalued
 KOTAKBANK,"Kotak Mahindra Bank Ltd
 ",False,False,True,False,Overvalued
-LICI,Life Insurance Corporation of India,False,False,False,True,Overvalued
+LICI,Life Insurance Corporation of India,True,False,False,True,Fairly Valued
 LODHA,Macrotech Developers Ltd,False,False,True,True,Fairly Valued
-LT,Larsen & Toubro Ltd,False,False,False,True,Overvalued
-LTIM,LTIMindtree Ltd,False,False,False,True,Overvalued
+LT,Larsen & Toubro Ltd,True,False,False,True,Fairly Valued
+LTIM,LTIMindtree Ltd,True,False,False,True,Fairly Valued
 M&M,"Mahindra & Mahindra Ltd
 ",False,False,False,False,Overvalued
 MARUTI,Maruti Suzuki India Ltd,False,False,False,True,Overvalued
 MOTHERSON,Samvardhana Motherson International Ltd,False,False,False,False,Overvalued
 NAUKRI,Info Edge (India) Ltd,False,False,True,True,Fairly Valued
-NESTLEIND,Nestle India Ltd,False,False,True,True,Fairly Valued
+NESTLEIND,Nestle India Ltd,True,False,True,True,Fairly Valued
 NHPC,"NHPC Ltd
 ",False,False,True,False,Overvalued
 NTPC,NTPC Ltd,False,False,False,False,Overvalued
 ONGC,Oil & Natural Gas Corpn Ltd,False,False,False,True,Overvalued
-PFC,Power Finance Corporation Ltd,False,False,True,False,Overvalued
-PIDILITIND,Pidilite Industries Ltd,False,False,False,True,Overvalued
-PNB,Punjab National Bank,False,False,False,False,Overvalued
+PFC,Power Finance Corporation Ltd,True,False,True,False,Fairly Valued
+PIDILITIND,Pidilite Industries Ltd,True,False,False,True,Fairly Valued
+PNB,Punjab National Bank,True,False,False,False,Overvalued
 POWERGRID,Power Grid Corporation of India Ltd,False,False,True,False,Overvalued
-RECLTD,REC Ltd,False,False,True,False,Overvalued
+RECLTD,REC Ltd,True,False,True,False,Fairly Valued
 RELIANCE,"Reliance Industries Ltd
 ",False,False,False,False,Overvalued
 SBILIFE,SBI Life Insurance Company Ltd,False,False,False,True,Overvalued
@@ -95,16 +95,16 @@ SHRIRAMFIN,"Shriram Finance Ltd
 SIEMENS,Siemens Ltd,False,False,False,True,Overvalued
 SUNPHARMA,Sun Pharmaceuticals Industries Ltd,False,False,True,True,Fairly Valued
 TATACONSUM,Tata Consumer Products Ltd,False,False,False,True,Overvalued
-TATAMOTORS,Tata Motors Ltd,False,False,False,False,Overvalued
+TATAMOTORS,Tata Motors Ltd,True,False,False,False,Overvalued
 TATAPOWER,"Tata Power Company Ltd
 ",False,False,False,False,Overvalued
 TATASTEEL,"Tata Steel Ltd
 ",False,False,False,False,Overvalued
-TCS,Tata Consultancy Services Ltd,False,False,True,True,Fairly Valued
+TCS,Tata Consultancy Services Ltd,True,False,True,True,Fairly Valued
 TECHM,Tech Mahindra Ltd,False,False,False,True,Overvalued
 TITAN,"Titan Company Ltd
-",False,False,False,False,Overvalued
-TORNTPHARM,Torrent Pharmaceuticals Ltd,False,False,True,False,Overvalued
-TRENT,Trent Ltd,False,False,False,True,Overvalued
-TVSMOTOR,TVS Motor Company Ltd,False,False,False,False,Overvalued
-INDIGO,Interglobe Aviation Ltd,False,True,False,True,Fairly Valued
+",True,False,False,False,Overvalued
+TORNTPHARM,Torrent Pharmaceuticals Ltd,True,False,True,False,Fairly Valued
+TRENT,Trent Ltd,True,False,False,True,Fairly Valued
+TVSMOTOR,TVS Motor Company Ltd,True,False,False,False,Overvalued
+INDIGO,Interglobe Aviation Ltd,True,True,False,True,Fairly Valued

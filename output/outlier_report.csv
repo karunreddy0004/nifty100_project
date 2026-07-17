@@ -1,0 +1,5 @@
+company_id,sector,metric,z_score
+TATAMOTORS,Consumer Discretionary,free_cash_flow,3.3508028753585486
+INDIGO,Consumer Discretionary,return_on_equity_pct,3.602963794683554
+ADANIGREEN,Energy,debt_to_equity,3.2615183991473167
+PNB,Financials,return_on_equity_pct,3.407276900695457
